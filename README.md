@@ -64,3 +64,6 @@ Uses **fundamental frequency (F0)** + **spectral centroid** + **zero-crossing ra
 3. **Analyze a file** —> .wav or .mp3
 4. **Continuous mode** —> keeps looping
 5. **Exit**
+-------
+| Note |
+Lib. need to install.
