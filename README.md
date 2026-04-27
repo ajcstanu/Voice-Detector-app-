@@ -1,4 +1,4 @@
-**Voice Detector** app!! 🎙️
+**Voice Detector** app!! 
 
 ---
 
