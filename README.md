@@ -65,5 +65,4 @@ Uses **fundamental frequency (F0)** + **spectral centroid** + **zero-crossing ra
 4. **Continuous mode** —> keeps looping
 5. **Exit**
 -------
-| Note |
-Lib. need to install.
+
