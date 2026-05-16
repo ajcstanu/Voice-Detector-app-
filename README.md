@@ -2,7 +2,7 @@
 
 ---
 
-## ⚙️ Setup (run once)
+##  Setup (run once)
 
 ```bash
 pip install librosa sounddevice numpy scipy
@@ -12,7 +12,7 @@ pip install librosa sounddevice numpy scipy
 
 ---
 
-## ▶️ Run the app
+##  Run the app
 
 ```bash
 python voice_detector.py
@@ -20,7 +20,7 @@ python voice_detector.py
 
 ---
 
-## 🧠 What it detects
+##  What it detects
 
 | Voice Type | Detection Method |
 |---|---|
@@ -36,7 +36,7 @@ python voice_detector.py
 
 ---
 
-## 🎯 Age Estimation Logic
+##  Age Estimation Logic
 
 Uses **fundamental frequency (F0)** + **spectral centroid** + **zero-crossing rate**:
 - Children have higher F0 (200–400 Hz) and higher ZCR
@@ -58,7 +58,7 @@ Uses **fundamental frequency (F0)** + **spectral centroid** + **zero-crossing ra
 | **9. File Structure** | Project folder layout |
 | **10. Cheat Sheet** | Quick-reference commands table |
 
-## 📋 Menu Options
+##  Menu Options
 1. **Record 3 sec** —> quick detect
 2. **Custom duration** —> 1 to 10 seconds
 3. **Analyze a file** —> .wav or .mp3
